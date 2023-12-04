@@ -37,4 +37,10 @@
 
 # Implementation of Observer Pattern
 
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/Observer-pattern/assets/127215110/828f513d-94dd-42b4-b645-a683c7b6d305"/>
+</p>
+
+
+
 # UML Class Diagram
